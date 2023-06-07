@@ -32,6 +32,8 @@ Step2:
    Search for ESP32 and then press install button for the “ESP32 by Espressif Systems“:
     
    ![image](https://github.com/nobelnithin/Esp32/assets/73788106/b3c81244-0fee-4557-a01d-92b8e5aec585)
+   
+  After this steps, we can find the esp boards in Arduino IDE
 
   
   
