@@ -33,7 +33,12 @@ Step2:
     
    ![image](https://github.com/nobelnithin/Esp32/assets/73788106/b3c81244-0fee-4557-a01d-92b8e5aec585)
    
-  After this steps, we can find the esp boards in Arduino IDE
+  After these steps, we can find the esp boards in Arduino IDE
+  
+  Then choose the correct board and connect the ESP32 Board to the system/laptop. Then select the Port and start programming
+  
+  Happy coding:)
+  
 
   
   
